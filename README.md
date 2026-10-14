@@ -48,14 +48,14 @@ Sebagai nilai tambah di luar *Data Science & ML*, saya aktif mengembangkan dan m
 
 | Proyek | Kategori & Fitur Utama | Tech Stack | Status & Tautan |
 | :--- | :--- | :--- | :--- |
-| **Personal Tech Portfolio** | Website portofolio interaktif yang merangkum proyek rekayasa perangkat lunak dan sains data. | `JavaScript` `Modern Web` | <br> [Portofolio](https://sich-dev.site) |
-| **Next.js AI Chatbot** | Aplikasi web *conversational AI* modern dengan antarmuka pengguna yang responsif dan *type-safe*. | `TypeScript` `Next.js` `AI API` | (/dawooodd/nextjs-ai-chatbot) <br> [🌐 Demo]() |
-| **NengCollection E-Commerce** | Platform *e-commerce* *full-stack* untuk manajemen katalog produk, transaksi, dan antarmuka pelanggan. | `TypeScript` `Next.js` `PostgreSQL` |<br> [Web](https://nengcollection.shop) |
-| **Portal Web BKLTI Unmerpas** | *Refactoring* arsitektur komponen, optimasi *routing*, dan *responsive layout* untuk portal institusi kampus. | `JavaScript` `Frontend Architecture` | <br> [Live Web](bklti--unmerpas.vercel.app) |
-| **Kedai Kisanak Web Platform** | Aplikasi web bisnis F&B untuk katalog menu digital dan interaksi pelanggan. | `JavaScript` `Web Development` | (/dawooodd/Kedai_kisanak) <br> [🌐 Live Web](https://kedaikisanak.netlify.app) |
-| **AR-Campus & Aplikasi Toko** | Pengembangan aplikasi *mobile* lintas platform untuk navigasi kampus interaktif dan sistem toko. | `Dart` `Flutter` | [📂 AR-Campus](/dawooodd/AR-Campus) <br> [📂 App Toko](/dawooodd/toko) |
-| **Sistem Informasi Perpustakaan & Desa** | Pengembangan dan kustomisasi sistem informasi manajemen berbasis web (*backend* & *monolith*). | `PHP` `Laravel (Blade)` | [📂 Perpustakaan](/dawooodd/Perpustakaan) <br> [📂 OpenSID](/dawooodd/OpenSID) |
-| **Smart Agriculture: IoT Sawah** | Sistem pemantauan lahan pertanian terintegrasi berbasis perangkat *Internet of Things (IoT)*. | `IoT` `Sensor Integration` | (/dawooodd/IoT-sawah) |
+| **Personal Tech Portfolio** | Website portofolio interaktif yang merangkum proyek rekayasa perangkat lunak dan sains data. | `JavaScript` `Modern Web` |
+| **Next.js AI Chatbot** | Aplikasi web *conversational AI* modern dengan antarmuka pengguna yang responsif dan *type-safe*. | `TypeScript` `Next.js` `AI API` |
+| **NengCollection E-Commerce** | Platform *e-commerce* *full-stack* untuk manajemen katalog produk, transaksi, dan antarmuka pelanggan. | `TypeScript` `Next.js` `PostgreSQL` |
+| **Portal Web BKLTI Unmerpas** | *Refactoring* arsitektur komponen, optimasi *routing*, dan *responsive layout* untuk portal institusi kampus. |
+| **Kedai Kisanak Web Platform** | Aplikasi web bisnis F&B untuk katalog menu digital dan interaksi pelanggan. | `JavaScript` `Web Development` |
+| **AR-Campus & Aplikasi Toko** | Pengembangan aplikasi *mobile* lintas platform untuk navigasi kampus interaktif dan sistem toko. | `Dart` `Flutter` |
+| **Sistem Informasi Perpustakaan & Desa** | Pengembangan dan kustomisasi sistem informasi manajemen berbasis web (*backend* & *monolith*). | `PHP` `Laravel (Blade)` |  |
+| **Smart Agriculture: IoT Sawah** | Sistem pemantauan lahan pertanian terintegrasi berbasis perangkat *Internet of Things (IoT)*. | `IoT` `Sensor Integration` | 
 
 ---
 
